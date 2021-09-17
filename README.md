@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **caiquan-github/caiquan-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiquan-github&show_icons=true&theme=synthwave)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=caiquan-github&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=20&theme=tokyonight"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquan-github&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&layout=compact&theme=tokyonight"
+  />
+</p>
